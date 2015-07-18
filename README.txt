@@ -1,3 +1,5 @@
+A Resource Monitoring System developed as a final project for P434 - Distributed Systems.
+
 How to build
 ============
 
